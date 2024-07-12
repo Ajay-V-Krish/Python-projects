@@ -1,5 +1,18 @@
 import random
 
+print('')
+print("-----Pig-Game-----")
+print('')
+print('''
+Rules:
+    1)You have to choose the number of players to play the game(2-4).
+    2)You can roll the dice as many times as you can.
+    3)If you roll one(1) your score will be zero and your chance will be over.
+    4)Or else your score will be increasing.
+    5)The first player to take 50 points is the winner of the game.''')
+print('')
+print('Let"s Start🏆🏆🏆')
+
 def roll():
     min_value = 1
     max_value = 6
