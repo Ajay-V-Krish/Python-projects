@@ -16,7 +16,7 @@ def EmailSlicer():
 while True:
     EmailSlicer()
     
-    Next_Input = input("If you want to continue pree (y) or press (n): ")
+    Next_Input = input("If you want to continue press (y) or press (n): ")
     
     if Next_Input.lower() != 'y':
         print("😎Bye Thanks")
