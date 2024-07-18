@@ -4,7 +4,7 @@ import random
 
 WIDTH, HEIGHT = 500, 500
 
-COLORS = ['red', 'green', 'blue', 'orange', 'yellow', 'green', 'pink', 'purple', 'black', 'brown']
+COLORS = ['red', 'green', 'blue', 'orange', 'yellow', 'violet', 'pink', 'purple', 'black', 'brown']
 
 def racer_input():
     racer = 0
